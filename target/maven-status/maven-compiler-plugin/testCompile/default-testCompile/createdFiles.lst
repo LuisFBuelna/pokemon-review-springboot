@@ -1,0 +1,7 @@
+com\pokemonreview\api\repository\PokemonRepositoryTests.class
+com\pokemonreview\api\service\PokemonServiceTests.class
+com\pokemonreview\api\repository\ReviewRepositoryTests.class
+com\pokemonreview\api\service\ReviewServiceTests.class
+com\pokemonreview\api\controller\ReviewControllerTests.class
+com\pokemonreview\api\ApiApplicationTests.class
+com\pokemonreview\api\controller\PokemonControllerTests.class
